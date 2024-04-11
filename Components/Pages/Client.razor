@@ -1,0 +1,93 @@
+﻿@page "/client"
+@rendermode InteractiveServer
+@using PetAdoptionProject.Models
+
+@if (isRegistered)
+{
+    <div class="alert alert-success" role="alert">
+        You have successfully registered!
+    </div>
+}
+<EditForm model="@client" OnValidSubmit="SubmitForm" style="max-width: 400px; margin: 0 auto; padding: 20px; border: 1px solid #ccc; border-radius: 5px;">
+    <div class="container">
+        <h2 style="text-align: center;">Sign Up</h2>
+        <p style="text-align: center;">Dear Client, Please fill in this form to create an account and become a client.</p>
+        <hr>
+
+        <label for="email"><b>First Name</b></label>
+        <InputText type="text" @bind-Value="client.FirstName" placeholder="Enter FirstName" name="firstname" style="width: 100%; padding: 10px; margin-bottom: 15px;" required />
+
+        <label for="email"><b>Last Name</b></label>
+        <InputText type="text" @bind-Value="client.LastName" placeholder="Enter LastName" name="lastname" style="width: 100%; padding: 10px; margin-bottom: 15px;" required />
+
+        <label for="email"><b>Address</b></label>
+        <InputText type="text" @bind-Value="client.ClientAddress" placeholder="Enter Your Address" name="address" style="width: 100%; padding: 10px; margin-bottom: 15px;" required />
+
+        <label for="email"><b>PetType</b></label>
+        <InputText type="text" @bind-Value="client.PetType" placeholder="Enter Prefered Pet Type" name="pettype" style="width: 100%; padding: 10px; margin-bottom: 15px;" />
+
+        <label for="phone"><b>Telephone</b></label>
+        <InputText type="tel" @bind-Value="client.PhoneNumber" id="phone" placeholder="Enter Your Phone Number" name="phone" style="width: 100%; padding: 10px; margin-bottom: 15px;" required />
+
+        <label for="email"><b>Email</b></label>
+        <InputText type="text" @bind-Value="client.Email" placeholder="Enter Email" name="email" style="width: 100%; padding: 10px; margin-bottom: 15px;" required />
+
+        <label for="psw"><b>Password</b></label>
+        <InputText type="password" @bind-Value="client.Password" placeholder="Enter Password" name="psw" style="width: 100%; padding: 10px; margin-bottom: 15px;" required />
+
+        <label for="psw-repeat"><b>Repeat Password</b></label>
+        <input type="password" placeholder="Repeat Password" name="psw-repeat" style="width: 100%; padding: 10px; margin-bottom: 15px;" required >
+
+        <label style="display: block;">
+            <input type="checkbox" checked="checked" name="remember" style="margin-bottom: 15px;"> Remember me
+        </label>
+
+        <p style="text-align: center;">By creating an account you agree to our <a href="#" style="color: dodgerblue;">Terms & Privacy</a>.</p>
+
+        <div class="clearfix">
+            <button type="button" class="cancelbtn" style="width: 50%; float: left; margin-right: 5%;">Cancel</button>
+            <br>
+            <br>
+            <button type="submit" class="btn btn-primary" style="width: 50%; float: left;">Sign Up</button>
+        </div>
+    </div>
+</EditForm>
+
+@inject Data.DataContext DbContext
+@code {
+    private string? firstname;
+    private string? lastname;
+    private string? address;
+    private string? pettype;
+    private string? phone;
+    private string? email;
+    private string? password;
+    private bool isRegistered;
+    public ClientDB client = new ClientDB();
+    private async Task SubmitForm()
+    {
+        try
+        {
+            DbContext.Clients.Add(client);
+            await DbContext.SaveChangesAsync();
+            await Task.Delay(500);
+
+            // Set isRegistered to true to display the success message
+            isRegistered = true;
+
+            // Reset form fields
+            email = string.Empty;
+            password = string.Empty;
+        }
+        catch (Exception ex)
+        {
+            // Log the exception
+            Console.WriteLine($"An error occurred while submitting the form: {ex.Message}");
+            // You can also log the stack trace if needed: Console.WriteLine(ex.StackTrace);
+
+            // Handle the error gracefully, display an error message, or perform any necessary cleanup
+            // For example, you could set a flag to display an error message to the user
+            // errorMessage = "An error occurred while processing your request. Please try again later.";
+        }
+    }
+}
