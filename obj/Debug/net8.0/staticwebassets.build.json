@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3UqpzxQqMz9hCJ+BTUHHw5b90qh/zszVlBJ4VVsYtN0=",
+  "Hash": "zvfYCYU01zhLLaKUHqO10jRWA5jpcyeJyhXiqjxeiVs=",
   "Source": "PetAdoptionProject",
   "BasePath": "_content/PetAdoptionProject",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PetAdoptionProject\\wwwroot",
       "Source": "PetAdoptionProject",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PetAdoptionProject.styles.css",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PetAdoptionProject.styles.css",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "PetAdoptionProject.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PetAdoptionProject.styles.css"
+      "OriginalItemSpec": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PetAdoptionProject.styles.css"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PetAdoptionProject.bundle.scp.css",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PetAdoptionProject.bundle.scp.css",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "PetAdoptionProject.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PetAdoptionProject.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PetAdoptionProject.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\app.css",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\favicon.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\animal-bg.jpg",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\animal-bg.jpg",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/animal-bg.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\animal-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\bird.jpg",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\bird.jpg",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/bird.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\bird.jpg"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\call.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\call.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/call.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\call.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\cat.jpg",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\cat.jpg",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/cat.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\cat.jpg"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\client.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\client.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/client.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\client.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\client-bg.jpg",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\client-bg.jpg",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/client-bg.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\client-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\dog.jpg",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\dog.jpg",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/dog.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\dog.jpg"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\dog.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\dog.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/dog.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\dog.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\f1.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\f1.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/f1.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\f1.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\f2.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\f2.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/f2.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\f2.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\f3.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\f3.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/f3.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\f3.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\fb.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\fb.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/fb.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\fb.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\fish.jpg",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\fish.jpg",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/fish.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\fish.jpg"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\heading-img.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\heading-img.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/heading-img.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\heading-img.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\hero-bg.jpg",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\hero-bg.jpg",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/hero-bg.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\hero-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\hero-bg2.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\hero-bg2.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/hero-bg2.png",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\hero-bg2.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\instagram.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\instagram.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/instagram.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\instagram.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\link-arrow.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\link-arrow.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/link-arrow.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\link-arrow.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\linkedin.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\linkedin.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/linkedin.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\linkedin.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\logo.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\logo.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/logo.png",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\mail.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\mail.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/mail.png",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\mail.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\next.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\next.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/next.png",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\next.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\next-angle.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\next-angle.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/next-angle.png",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\next-angle.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\omega.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\omega.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/omega.png",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\omega.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\pet1.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\pet1.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/pet1.png",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\pet1.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\pet2.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\pet2.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/pet2.png",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\pet2.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\pet-bg.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\pet-bg.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/pet-bg.png",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\pet-bg.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\pet-img.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\pet-img.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/pet-img.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\pet-img.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\prev.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\prev.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/prev.png",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\prev.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\prev-angle.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\prev-angle.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/prev-angle.png",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\prev-angle.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\quote.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\quote.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/quote.png",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\quote.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\search-icon.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\search-icon.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/search-icon.png",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\search-icon.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\shield.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\shield.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/shield.png",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\shield.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\slider-img.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\slider-img.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/slider-img.png",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\slider-img.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\Images\\twitter.png",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\Images\\twitter.png",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "Images/twitter.png",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\twitter.png"
     },
     {
-      "Identity": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\new.css",
+      "Identity": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\new.css",
       "SourceId": "PetAdoptionProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\wwwroot\\",
       "BasePath": "_content/PetAdoptionProject",
       "RelativePath": "new.css",
       "AssetKind": "All",

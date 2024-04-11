@@ -159,8 +159,7 @@
               "ViewState": "AQIAAF0AAAAAAAAAAAAAAD4AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-25T18:39:55.303Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -230,7 +229,7 @@
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAAAF4AAAA9AAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFwAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-06T10:54:39.409Z",
               "EditorCaption": ""
