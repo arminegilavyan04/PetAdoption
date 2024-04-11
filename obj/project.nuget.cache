@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OuiL8X3pQ45LcBSYiZNYrKNUWk1gDIn/wXz3yEsI0mDJ98TxI9xo3Ob0Kr9ixMtsMQ3Tzu5O21Iz9pZVa0NyVQ==",
+  "dgSpecHash": "srDT1JXPiIeXHRY54L9rLuPwp0Yhx+Wgo+9ptbbLtcIVmq0PrVesy2rG+t1v09RSv75ZfVlQApnfbLatZCkVvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoptionProject\\PetAdoptionProject.csproj",
+  "projectFilePath": "C:\\Users\\armin\\Pictures\\PetAdoptionProject\\PetAdoptionProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\armin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\armin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
